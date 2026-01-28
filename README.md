@@ -9,8 +9,8 @@ This project presents an interactive sales analytics dashboard built using Power
 - Time series trend analysis
 - Sales forecasting
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
+- ![Dashboard](images/dashboard.png)
+
 
 ## Note
 The Power BI (.pbix) file can be viewed by downloading and opening it in Power BI Desktop.
